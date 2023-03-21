@@ -4,4 +4,4 @@ The project creates a console application that allows users to play Scrabble wit
 
 ## Gameplay
 
-![](https://github.com/lukassw1/Scrabble-project/gif1.gif)
+![](https://github.com/lukassw1/Scrabble-project/blob/main/gif1.gif)
